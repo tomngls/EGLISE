@@ -11,9 +11,10 @@ import MapController from "../components/MapController"
 import L from "leaflet"
 import { Link, useSearchParams, useNavigate } from "react-router-dom"
 import { genererPhotos } from "../utils/photo"
+const BASE_URL = window.location.origin;
 
 const markerViolet = new L.Icon({
-  iconUrl: "/icons/marker-violet.png",
+  iconUrl: `${BASE_URL}/icons/marker-violet.png`,
   iconSize: [35, 50],
   iconAnchor: [17, 50],
   popupAnchor: [0, -45],
