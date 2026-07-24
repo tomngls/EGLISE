@@ -13,7 +13,7 @@ import { Link, useSearchParams, useNavigate } from "react-router-dom"
 import { genererPhotos } from "../utils/photo"
 
 const markerViolet = new L.Icon({
-  iconUrl: "/images/icons/marker-violet.png",
+  iconUrl: "/icons/marker-violet.png",
   iconSize: [35, 50],
   iconAnchor: [17, 50],
   popupAnchor: [0, -45],
