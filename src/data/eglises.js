@@ -2163,6 +2163,24 @@ nbPhotos: 5,
 
   nbPhotos: 3,
 },
+{
+  id: "eglise-saint-quentin-tournai",
+
+  nom: "Saint Quentin",
+
+  type: "Église",
+
+  ville: "Tournai",
+
+  pays: "Belgique",
+
+  latitude: 50.6064712,
+  longitude: 3.3855325,
+
+  dossier: "eglise-saint-quentin-tournai",
+
+  nbPhotos: 9,
+},
 
 
 ]
