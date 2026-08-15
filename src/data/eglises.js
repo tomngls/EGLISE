@@ -2145,6 +2145,24 @@ nbPhotos: 5,
 
   nbPhotos: 10,
 },
+{
+  id: "eglise-sainte-trinite-tournai",
+
+  nom: "Sainte Trinité",
+
+  type: "Église",
+
+  ville: "Mont Saint Aubert",
+
+  pays: "Belgique",
+
+  latitude: 50.6548537,
+  longitude: 3.3991447,
+
+  dossier: "eglise-sainte-trinite-tournai",
+
+  nbPhotos: 3,
+},
 
 
 ]

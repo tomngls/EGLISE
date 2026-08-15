@@ -6,6 +6,21 @@ echo ""
 read -p "📁 Nom du dossier : " DOSSIER
 
 CHEMIN="public/images/$DOSSIER"
+echo "🔎 Vérification des photos..."
+
+NB=$(find "$CHEMIN" -maxdepth 1 \( -iname "*.jpeg" -o -iname "*.jpg" \) | wc -l | tr -d ' ')
+
+for ((i=1;i<=NB;i++)); do
+    NUM=$(printf "%02d" "$i")
+
+    if [ ! -f "$CHEMIN/$NUM.jpeg" ] && [ ! -f "$CHEMIN/$NUM.jpg" ]; then
+        echo ""
+        echo "❌ Il manque $NUM.jpeg"
+        exit 1
+    fi
+done
+
+echo "✅ Numérotation correcte."
 
 if [ ! -d "$CHEMIN" ]; then
   echo "❌ Dossier introuvable : $CHEMIN"
@@ -18,7 +33,11 @@ find "$CHEMIN" -name "*.DS_Store" -delete
 
 for img in "$CHEMIN"/*.jpeg; do
   [ -f "$img" ] || continue
-  magick "$img" -auto-orient -quality 90 "${img%.jpeg}.avif"
+  AVIF="${img%.*}.avif"
+
+if [ ! -f "$AVIF" ]; then
+    magick "$img" -auto-orient -quality 90 "$AVIF"
+fi
 done
 
 echo "✅ Conversion terminée."
