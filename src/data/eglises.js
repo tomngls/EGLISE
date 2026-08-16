@@ -2434,6 +2434,25 @@ nbPhotos: 5,
 
   nbPhotos: 9,
 },
+{
+  id: "eglise-notre-dame-aix",
+
+  nom: "Notre Dame",
+
+  type: "Église",
+
+  ville: "Aix les Bains",
+
+  pays: "France",
+
+  latitude: 45.6907616,
+  longitude: 5.9158929,
+
+  dossier: "eglise-notre-dame-aix",
+
+  nbPhotos: 8,
+},
+
 
 
 
