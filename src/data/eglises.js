@@ -2380,6 +2380,24 @@ nbPhotos: 5,
 
   nbPhotos: 7,
 },
+{
+  id: "chapelle-pape-avignon",
+
+  nom: "Chapelle Palais des Papes",
+
+  type: "Chapelle",
+
+  ville: "Avignon",
+
+  pays: "France",
+
+  latitude: 43.9507126,
+  longitude: 4.8068200,
+
+  dossier: "chapelle-pape-avignon",
+
+  nbPhotos: 2,
+},
 
 
 
