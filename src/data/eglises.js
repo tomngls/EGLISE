@@ -2217,6 +2217,25 @@ nbPhotos: 5,
 
   nbPhotos: 12,
 },
+{
+  id: "eglise-saint-nicolas-blois",
+
+  nom: "Saint Nicolas",
+
+  type: "Église",
+
+  ville: "Blois",
+
+  pays: "France",
+
+  latitude: 47.5839733,
+  longitude: 1.3308021,
+
+  dossier: "eglise-saint-nicolas-blois",
+
+  nbPhotos: 10,
+},
+
 
 
 
