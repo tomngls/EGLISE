@@ -2289,6 +2289,24 @@ nbPhotos: 5,
 
   nbPhotos: 6,
 },
+{
+  id: "cathedrale-sainte-reparate-nice",
+
+  nom: "Sainte Réparate",
+
+  type: "Cathédrale",
+
+  ville: "Nice",
+
+  pays: "France",
+
+  latitude: 43.6971339,
+  longitude: 7.2760703,
+
+  dossier: "cathedrale-sainte-reparate-nice",
+
+  nbPhotos: 14,
+},
 
 
 
