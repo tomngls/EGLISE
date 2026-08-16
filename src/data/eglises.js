@@ -2271,6 +2271,25 @@ nbPhotos: 5,
 
   nbPhotos: 9,
 },
+{
+  id: "eglise-saint-francois-de-paule-nice",
+
+  nom: "Saint François de Paule",
+
+  type: "Église",
+
+  ville: "Nice",
+
+  pays: "France",
+
+  latitude: 43.6958050,
+  longitude: 7.2722475,
+
+  dossier: "eglise-saint-francois-de-paule-nice",
+
+  nbPhotos: 6,
+},
+
 
 
 
