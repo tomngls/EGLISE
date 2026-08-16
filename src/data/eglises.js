@@ -2249,7 +2249,7 @@ nbPhotos: 5,
   latitude: 47.6157553,
   longitude: 1.5176525,
 
-  dossier: "eglise-saint-nicolas-blois",
+  dossier: "chapelle-chambord",
 
   nbPhotos: 3,
 },
