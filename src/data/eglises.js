@@ -2416,6 +2416,24 @@ nbPhotos: 5,
 
   nbPhotos: 15,
 },
+{
+  id: "basilique-saint-pierre-avignon",
+
+  nom: "Saint Pierre",
+
+  type: "Basilique",
+
+  ville: "Avignon",
+
+  pays: "France",
+
+  latitude: 43.9491625,
+  longitude: 4.8084497,
+
+  dossier: "basilique-saint-pierre-avignon",
+
+  nbPhotos: 9,
+},
 
 
 
