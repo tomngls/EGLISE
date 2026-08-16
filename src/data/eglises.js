@@ -2362,6 +2362,24 @@ nbPhotos: 5,
 
   nbPhotos: 5,
 },
+{
+  id: "cathedrale-notre-dame-nativite-vence",
+
+  nom: "Notre Dame de la Nativité",
+
+  type: "Cathédrale",
+
+  ville: "Vence",
+
+  pays: "France",
+
+  latitude: 43.7226264,
+  longitude: 7.1137249,
+
+  dossier: "cathedrale-notre-dame-nativite-vence",
+
+  nbPhotos: 7,
+},
 
 
 
