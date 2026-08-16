@@ -2398,6 +2398,24 @@ nbPhotos: 5,
 
   nbPhotos: 2,
 },
+{
+  id: "cathedrale-nd-doms-avignon",
+
+  nom: "Notre Dame des Doms",
+
+  type: "Cathédrale",
+
+  ville: "Avignon",
+
+  pays: "France",
+
+  latitude: 43.9515768,
+  longitude: 4.8072146,
+
+  dossier: "cathedrale-nd-doms-avignon",
+
+  nbPhotos: 15,
+},
 
 
 
