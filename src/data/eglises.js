@@ -2307,6 +2307,24 @@ nbPhotos: 5,
 
   nbPhotos: 14,
 },
+{
+  id: "cathedrale-notre-dame-antibes",
+
+  nom: "Notre Dame de l’Immaculée Conception",
+
+  type: "Cathédrale",
+
+  ville: "Antibes",
+
+  pays: "France",
+
+  latitude: 43.5811593,
+  longitude: 7.1282849,
+
+  dossier: "cathedrale-notre-dame-antibes",
+
+  nbPhotos: 6,
+},
 
 
 
