@@ -2235,6 +2235,25 @@ nbPhotos: 5,
 
   nbPhotos: 10,
 },
+{
+  id: "chapelle-chambord",
+
+  nom: "Chapelle Chambord",
+
+  type: "Chapelle",
+
+  ville: "Chambord",
+
+  pays: "France",
+
+  latitude: 47.6157553,
+  longitude: 1.5176525,
+
+  dossier: "eglise-saint-nicolas-blois",
+
+  nbPhotos: 3,
+},
+
 
 
 
