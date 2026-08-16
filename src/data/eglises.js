@@ -2253,7 +2253,24 @@ nbPhotos: 5,
 
   nbPhotos: 3,
 },
+{
+  id: "eglise-annonciation-nice",
 
+  nom: "Sainte Rita",
+
+  type: "Église",
+
+  ville: "Nice",
+
+  pays: "France",
+
+  latitude: 43.6962193,
+  longitude: 7.2765980,
+
+  dossier: "eglise-annonciation-nice",
+
+  nbPhotos: 9,
+},
 
 
 
