@@ -2325,6 +2325,24 @@ nbPhotos: 5,
 
   nbPhotos: 6,
 },
+{
+  id: "chapelle-saint-bernardin-antibes",
+
+  nom: "Saint Bernardin",
+
+  type: "Chapelle",
+
+  ville: "Antibes",
+
+  pays: "France",
+
+  latitude: 43.5817633,
+  longitude: 7.1247153,
+
+  dossier: "chapelle-saint-bernardin-antibes",
+
+  nbPhotos: 6,
+},
 
 
 
