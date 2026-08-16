@@ -2199,6 +2199,25 @@ nbPhotos: 5,
 
   nbPhotos: 12,
 },
+{
+  id: "cathedrale-saint-louis-blois",
+
+  nom: "Saint Louis",
+
+  type: "Cathédrale",
+
+  ville: "Blois",
+
+  pays: "France",
+
+  latitude: 47.5883535,
+  longitude: 1.3359875,
+
+  dossier: "cathedrale-saint-louis-blois",
+
+  nbPhotos: 12,
+},
+
 
 
 ]
