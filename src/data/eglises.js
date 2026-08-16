@@ -2344,6 +2344,25 @@ nbPhotos: 5,
   nbPhotos: 6,
 },
 
+{
+  id: "eglise-saint-jacques-le-majeur-colle",
+
+  nom: "Saint Jacques le Majeur",
+
+  type: "Église",
+
+  ville: "La Colle sur Loup",
+
+  pays: "France",
+
+  latitude: 43.6867474,
+  longitude: 7.1056055,
+
+  dossier: "eglise-saint-jacques-le-majeur-colle",
+
+  nbPhotos: 5,
+},
+
 
 
 
