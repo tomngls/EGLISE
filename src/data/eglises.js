@@ -2181,6 +2181,24 @@ nbPhotos: 5,
 
   nbPhotos: 9,
 },
+{
+  id: "cathedrale-notre-dame-tournai",
+
+  nom: "Notre Dame",
+
+  type: "Cathédrale",
+
+  ville: "Tournai",
+
+  pays: "Belgique",
+
+  latitude: 50.6064795,
+  longitude: 3.3884377,
+
+  dossier: "cathedrale-notre-dame-tournai",
+
+  nbPhotos: 12,
+},
 
 
 ]
